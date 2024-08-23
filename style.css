@@ -1,16 +1,35 @@
+body {
+    background-color: gold;
+}
+
 h1{
     text-align: center;
     color: brown;
 }
 
 .container{
-    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+    margin-left: 800px;
+    background-color: aliceblue;
+    margin-bottom: 20px;
+    padding: 10px auto;
+    padding-right: 20px;
+    background-color: rgb(170, 170, 221);
     color: red;
+    font-size: 20px;
+    
 }
 
 .margin{
     margin-left: 40px;
 }
 
+.image{
+    text-align: center;
+}
 
+.container2{
+    text-align: center;
+}
 
