@@ -9,8 +9,9 @@ h1{
 
 .container{
     display: inline-block;
-    margin: 0 auto;
-    margin-left: 800px;
+    
+    margin-left: 43%;
+    margin-right: auto;
     background-color: aliceblue;
     margin-bottom: 20px;
     padding: 10px auto;
